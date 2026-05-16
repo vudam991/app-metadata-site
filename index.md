@@ -1,10 +1,7 @@
-
 ---
-title: App Metadata Site
 layout: default
-permalink: /
+title: App Metadata Site
 ---
-
 # App Metadata Site
 
 Public pages for SleepySheepie.
