@@ -1,8 +1,8 @@
 ---
-layout: default
 title: App Metadata Site
-___
-
+layout: default
+permalink: /
+---
 # App Metadata Site
 
 Public GitHub Pages site for SleepySheepie App Store Connect links.
