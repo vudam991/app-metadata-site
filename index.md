@@ -1,13 +1,5 @@
 
 ---
-layout: default
-title: Home
----
-
-# Welcome to App Metadata Site
-This is my awesome landing page...
-
----
 title: App Metadata Site
 layout: default
 permalink: /
